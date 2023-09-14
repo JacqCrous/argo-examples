@@ -1,6 +1,6 @@
 appName: fastapi-example
 port: 80
-namespace: prod
+namespace: default
 replicaCount: 1
 configmap:
   name: myhelmapp-configmap-v1
